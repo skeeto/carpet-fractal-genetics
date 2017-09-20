@@ -173,7 +173,7 @@ static void
 rule_write(unsigned char rules[][9], int ncolors, FILE *o)
 {
     int niter = 0;
-    for (long t = TARGET; t > 0; t /= 3)
+    for (long t = TARGET; t > 1; t /= 3)
         niter++;
     fprintf(o, "%d %d\n", ncolors, niter);
     for (int i = 0; i < ncolors; i++)

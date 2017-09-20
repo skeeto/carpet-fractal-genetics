@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#define SCALE 1
+#define SCALE 9
 
 int main(void)
 {

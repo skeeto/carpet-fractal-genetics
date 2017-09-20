@@ -1,0 +1,8 @@
+genetic
+render
+best.txt
+video.ppm
+progress.pgm
+_progress.pgm
+*.png
+*.mp4

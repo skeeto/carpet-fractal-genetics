@@ -3,7 +3,7 @@
 This is a tool to generate carpet fractal rulesets that generate specific
 images. It was inspired by [The Pi Fractal][pi].
 
-![](https://i.imgur.com/JcuNRi3.png)
+![](https://i.imgur.com/GbJVk74.png)
 
 See also:
 
